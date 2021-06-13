@@ -5,6 +5,7 @@ body {
 
 #workspace {
     height: 84%;
+    overflow-y: auto;
 }
 
 #details {
