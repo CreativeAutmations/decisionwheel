@@ -1,6 +1,7 @@
 #user_data_entry_box {
     display: none;
     height: 100%;
+    overflow-y: auto;
 }
 
 #i_choices {
